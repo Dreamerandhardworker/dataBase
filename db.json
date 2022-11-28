@@ -1,1 +1,10 @@
-
+{
+  "books":[
+    {"id":0,"name":"Harryo","info":"dasdkskaslkdjkkasldjaslkd","like":0},
+    {"id":1,"name":"Oleg","info":"dasdkskaslkdjkkasldjaslkdasdasd","like":0},
+    {"id":2,"name":"Vova","info":"dasdkskaslkdjkkasldjaslk123123d","like":0},
+    {"id":3,"name":"Vadimo","info":"dasdkskaslkdjkkasldjaslkafsSFd","like":0},
+    {"id":4,"name":"Jon","info":"dasdkskaslkdjkkasldjaslkd1QWEQWD","like":0},
+    {"id":5,"name":"Yebok","info":"dasdkskaslkdjkkasldjaslkfefew@#$d","like":0}
+  ]
+}
